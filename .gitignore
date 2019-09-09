@@ -1,0 +1,13 @@
+/vendor.bundle.js
+/vendor.bundle.map
+/assets
+/favicon.ico
+/inline.bundle.js
+/inline.bundle.map
+/main.bundle.js
+/main.bundle.map
+/polyfills.bundle.js
+/polyfills.bundle.map
+/styles.bundle.js
+/styles.bundle.map
+/index.html
